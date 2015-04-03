@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\ProjectD20 2.0\Control Usuario\obj\x86\Debug\Control_Usuario.DatosPJ.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\ProjectD20 2.0\Control Usuario\obj\x86\Debug\Control_Usuario.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\ProjectD20 2.0\Control Usuario\obj\x86\Debug\Control Usuario.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\ProjectD20 2.0\Control Usuario\bin\Debug\Control Usuario.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\ProjectD20 2.0\Control Usuario\bin\Debug\Control Usuario.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\ProjectD20 2.0\Control Usuario\obj\x86\Debug\Control Usuario.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\ProjectD20 2.0\Control Usuario\obj\x86\Debug\Control Usuario.pdb

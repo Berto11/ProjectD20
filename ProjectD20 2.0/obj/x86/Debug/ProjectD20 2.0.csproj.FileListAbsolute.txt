@@ -1,0 +1,10 @@
+c:\users\usuario\documents\visual studio 2010\Projects\ProjectD20 2.0\ProjectD20 2.0\bin\Debug\ProjectD20 2.0.exe
+c:\users\usuario\documents\visual studio 2010\Projects\ProjectD20 2.0\ProjectD20 2.0\bin\Debug\ProjectD20 2.0.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\ProjectD20 2.0\ProjectD20 2.0\obj\x86\Debug\ProjectD20_2._0.Form1.resources
+c:\users\usuario\documents\visual studio 2010\Projects\ProjectD20 2.0\ProjectD20 2.0\obj\x86\Debug\ProjectD20_2._0.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2010\Projects\ProjectD20 2.0\ProjectD20 2.0\obj\x86\Debug\ProjectD20 2.0.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2010\Projects\ProjectD20 2.0\ProjectD20 2.0\obj\x86\Debug\ProjectD20 2.0.exe
+c:\users\usuario\documents\visual studio 2010\Projects\ProjectD20 2.0\ProjectD20 2.0\obj\x86\Debug\ProjectD20 2.0.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\ProjectD20 2.0\ProjectD20 2.0\obj\x86\Debug\ProjectD20 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\ProjectD20 2.0\ProjectD20 2.0\bin\Debug\DatosPJ.exe
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\ProjectD20 2.0\ProjectD20 2.0\bin\Debug\DatosPJ.pdb

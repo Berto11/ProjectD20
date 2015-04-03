@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectD20 2.0", "ProjectD20 2.0\ProjectD20 2.0.csproj", "{5E2903E8-9E5D-4DB5-9401-D403A4554A33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatosPJ", "..\DatosPJ\DatosPJ\DatosPJ.csproj", "{7A13CE40-22D3-4E9A-8A3D-A1F424EA25F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E2903E8-9E5D-4DB5-9401-D403A4554A33}.Debug|x86.ActiveCfg = Debug|x86
+		{5E2903E8-9E5D-4DB5-9401-D403A4554A33}.Debug|x86.Build.0 = Debug|x86
+		{5E2903E8-9E5D-4DB5-9401-D403A4554A33}.Release|x86.ActiveCfg = Release|x86
+		{5E2903E8-9E5D-4DB5-9401-D403A4554A33}.Release|x86.Build.0 = Release|x86
+		{7A13CE40-22D3-4E9A-8A3D-A1F424EA25F7}.Debug|x86.ActiveCfg = Debug|x86
+		{7A13CE40-22D3-4E9A-8A3D-A1F424EA25F7}.Debug|x86.Build.0 = Debug|x86
+		{7A13CE40-22D3-4E9A-8A3D-A1F424EA25F7}.Release|x86.ActiveCfg = Release|x86
+		{7A13CE40-22D3-4E9A-8A3D-A1F424EA25F7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
